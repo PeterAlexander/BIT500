@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MT_I_startProcess xmlns:ns0="urn:bit800:00:com">
+   <DT_Customer>
+      <firstName>Peter</firstName>
+      <lastName>Alexander</lastName>
+      <phoneNo>123456</phoneNo>
+      <email>pe.alexander@sap.com</email>
+      <adress>
+         <city>Heidelberg</city>
+         <street>Elmsstreet </street>
+         <postalCode>123456</postalCode>
+         <houseNumber>3</houseNumber>
+      </adress>
+   </DT_Customer>
+   <DT_SpareParts>
+      <sparePartNo>p-100</sparePartNo>
+      <quantity>1</quantity>
+      <isAvailable>true</isAvailable>
+      <deliveryInDays>3</deliveryInDays>
+   </DT_SpareParts>
+   <DT_LateDelivery>
+      <lateDeliveryMessage/>
+      <lateDeliveryInDays/>
+   </DT_LateDelivery>
+   <ProcessID/>
+</ns0:MT_I_startProcess>
